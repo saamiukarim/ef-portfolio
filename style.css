@@ -55,9 +55,27 @@ section{
     border-image-slice: 1;
     background-color: white;
   }
+  .song-area{box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 260%;
+    width: 55%;
+    margin-left: 399px;
+    border-left: 10px solid salmon;
 
+  }
+  .prematal{
+      position: absolute;
+      left: 480px;
+  }
+  .raabta{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 70px;
+    
+  }
+  .zayn{position: absolute;
+    margin-top: 800px;
+    margin-left: 70px;
 
-footer p{
-    text-align: center;
-    font-size: 12px;
-}
+  }
+
